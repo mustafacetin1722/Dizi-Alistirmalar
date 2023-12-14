@@ -6,9 +6,9 @@ public class Main {
 
 
         //1: Bir dizideki en büyük sayıyı bulan bir Java programı yazın.
-        /*int[] dizi={25,31,2,54,89,32,78,6,98};
+        int[] dizi={25,31,2,54,89,32,78,6,98};
         Arrays.sort(dizi);
-        System.out.println("En büyük sayı : " +dizi[dizi.length-1]);*/
+        System.out.println("En büyük sayı : " +dizi[dizi.length-1]);
 
 
 
@@ -218,10 +218,11 @@ public class Main {
 
 
 
-        
+
         // ANLAMADIM
         //21:Bir diziyi belli bir değere göre filtreleyen bir Java programı yazın.
 
 
-        }
     }
+}
+
